@@ -1,0 +1,1 @@
+Neil leads the C++ static analysis team at Microsoft, which delivers a number of internal tools as well as the `/analyze` feature of the Microsoft C++ compiler. He also maintains [Microsoft's implementation](https://github.com/Microsoft/GSL) of the Guideline Support Library (GSL) and is one of the editors for the [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines).
